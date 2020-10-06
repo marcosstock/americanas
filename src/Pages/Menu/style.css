@@ -1,0 +1,137 @@
+.topinho{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+  
+}
+
+.top{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 84px;
+        background-color: rgb(207,12,26);
+}
+
+
+
+
+
+.topB{
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(207,12,26);
+
+}
+
+.topC{
+    position: relative;
+    float: left;
+    width: 50%;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(207,12,26);
+}
+
+.topD{
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(207,12,26);
+}
+
+.topE{
+    position: relative;
+    float: left;
+    width: 5%;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:  rgb(207,12,26);
+}
+
+.topF{
+    position: relative;
+    float: left;
+    width: 5%;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(207,12,26);
+}
+.top1{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 42px;
+    background-color: rgb(156, 145, 146);
+}
+.top2{
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 45px;
+    background-color: rgb(245, 239, 240);
+}
+.top1a{
+    
+    position: relative;
+    float: left;
+    width: 10.1%;
+    height: 45px;
+    background-color: rgb(207,12,26);;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h5{
+    font-size: 12px !important;
+}
+.top1aa{
+    position: relative;
+    float: left;
+    width: 19.11%;
+    height: 45px;
+    background-color: rgb(207,12,26);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.departamento{
+    position: relative;
+    float: left;
+    width: 11.55%;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.departamento1{
+    position: relative;
+    float: left;
+    width: 19.12%;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
